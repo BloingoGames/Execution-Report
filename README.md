@@ -8,7 +8,7 @@ A short video outlining the process of building Bloingo Games and releasing our 
 - [The Story of Bloingo Games](https://www.youtube.com/watch?v=FHPIdhnSmGg) 
 
 ## Execution Report Document
-- [Execution report document](internal-link-to-pdf...?)
+- [Execution report document](https://github.com/BloingoGames/Execution-Report/blob/main/Execution%20Report%20Document.pdf)
 
 ## Product Demo
 - Download the game in its current working state [here](https://github.com/BloingoGames/just-snap-public-releases/releases/tag/v0.0.1)
