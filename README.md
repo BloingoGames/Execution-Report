@@ -1,10 +1,10 @@
 # CM40179 Execution Report
 
 ## Introduction
-Here is a collection of the material being assessed as part of our **Entrepreneurship - CM40179** Coursework 2
+Here is a collection of the material being assessed as part of our **Entrepreneurship - CM40179** Coursework 2, executing on the [original business plan](https://github.com/BloingoGames/Documentation)
 
 ## Video
-A short video outlining the process of building Bloingo Games and releasing our first product, executing on the [original business plan](https://github.com/BloingoGames/Documentation):
+A short video outlining the process of building Bloingo Games and releasing our first product:
 - [The Story of Bloingo Games](https://www.youtube.com/watch?v=FHPIdhnSmGg) 
 
 ## Execution Report Document
