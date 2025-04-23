@@ -17,14 +17,14 @@ A short video outlining the process of building Bloingo Games and releasing our 
 - Our game's development repository is available for review [here](https://github.com/BloingoGames/just-snap)
 
 ## Website
-The Bloingo Games website, featuring our debut release *Just Snap*:
-- [Bloingo Games](https://bloingo.com/)
-
-## Kickstarter
-The official Kickstarter campaign for "Just Snap" can be found [here](https://www.kickstarter.com/projects/pn852/bloingo-games-just-snap)
+The Bloingo Games website, featuring our debut release *Just Snap* can be found at [bloingo.com](https://bloingo.com/)
 
 ## Steam Store Page
 The official store page for "Just Snap" listed on Steam [here](https://store.steampowered.com/app/3635700/Just_Snap/) 
+
+
+## Kickstarter
+The official Kickstarter campaign for "Just Snap" can be found [here](https://www.kickstarter.com/projects/pn852/bloingo-games-just-snap)
 
 ##  Social Media
 - [Discord](https://discord.gg/dHcmX9GEkw)
