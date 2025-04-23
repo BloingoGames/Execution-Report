@@ -20,6 +20,9 @@ A short video outlining the process of building Bloingo Games and releasing our 
 The Bloingo Games website, featuring our debut release *Just Snap*:
 - [Bloingo Games](https://bloingo.com/)
 
+## Steam Store Page
+The official store page for "Just Snap" listed on Steam [here](https://store.steampowered.com/app/3635700/Just_Snap/) 
+
 ##  Social Media
 - [Discord](https://discord.gg/dHcmX9GEkw)
 - [Instagram](https://www.instagram.com/bloingo/)
