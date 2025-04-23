@@ -5,7 +5,7 @@ Here is a collection of the material being assessed as part of our Entrepreneurs
 
 ## Video
 A short video outlining the process of building Bloingo Games and releasing our first product, executing on the original business plan:
-- Watch [The Story of Bloingo Games](https://www.youtube.com/watch?v=FHPIdhnSmGg) 
+- [The Story of Bloingo Games](https://www.youtube.com/watch?v=FHPIdhnSmGg) 
 
 ## Execution Report Document
 - [Execution report document](internal-link-to-pdf...?)
