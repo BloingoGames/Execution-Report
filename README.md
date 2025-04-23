@@ -11,7 +11,10 @@ A short video outlining the process of building Bloingo Games and releasing our 
 - [Execution report document](internal-link-to-pdf...?)
 
 ## Product Demo
-- Download the game in its current working state [here](https://github.com/BloingoGames/just-snap-public-releases/releases/tag/v0.0.1) 
+- Download the game in its current working state [here](https://github.com/BloingoGames/just-snap-public-releases/releases/tag/v0.0.1)
+
+## Source Code Repo
+- Our game's source code is open source and available for review [here](https://github.com/BloingoGames/just-snap)
 
 ## Website
 The Bloingo Games website, featuring our debut release *Just Snap*:
