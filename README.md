@@ -4,7 +4,7 @@
 Here is a collection of the material being assessed as part of our **Entrepreneurship - CM40179** Coursework 2
 
 ## Video
-A short video outlining the process of building Bloingo Games and releasing our first product, executing on the original business plan:
+A short video outlining the process of building Bloingo Games and releasing our first product, executing on the [original business plan](https://github.com/BloingoGames/Documentation):
 - [The Story of Bloingo Games](https://www.youtube.com/watch?v=FHPIdhnSmGg) 
 
 ## Execution Report Document
