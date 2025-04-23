@@ -4,7 +4,7 @@
 
 ## Video
 description of report video?
-- [Whatch the video here](link-to-report-video) 
+- [Watch the video here](link-to-report-video) 
 
 ## Execution Report Document
 - [Execution report document](internal-link-to-pdf...?)
